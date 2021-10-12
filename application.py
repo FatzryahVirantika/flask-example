@@ -5,4 +5,4 @@ app = application
 
 @application.route('/')
 def hello_world():
-    return 'Test Environment 1'
+    return 'Test Demo'
